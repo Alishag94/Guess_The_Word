@@ -1,2 +1,2 @@
-# Guess_The_Word
+# Guess The Word
 Personal Project JWD Generation USA
